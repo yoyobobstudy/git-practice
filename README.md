@@ -5,3 +5,4 @@
 - git commit
 - git commit -m
 - git add
+- git add 2
