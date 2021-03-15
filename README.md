@@ -6,3 +6,6 @@
 - git commit -m
 - git add
 - git merge 
+- adding master
+
+- adding merge-demo-redux
