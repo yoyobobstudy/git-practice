@@ -4,3 +4,4 @@
 - git add
 - git commit
 - git commit -m
+- git add
