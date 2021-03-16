@@ -9,5 +9,6 @@ aka something else
 - git add
 - git merge 
 - adding master
-
 - adding merge-demo-redux
+- git add 2
+
